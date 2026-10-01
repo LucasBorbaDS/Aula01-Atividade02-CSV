@@ -10,3 +10,7 @@
 ## Executar a atividade
 
 Abra o notebook `notebooks/Atividade_02.ipynb` no VS Code e execute a célula de código.
+
+## Tecnologias utilizadas
+
+A atividade foi feita com a biblioteca `pandas`, que facilita a leitura do arquivo CSV e permite visualizar os dados organizados em uma tabela.
